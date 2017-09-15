@@ -1,2 +1,3 @@
 # sysad-documentation
-Placeholder Repository for the Infrastructure and Network Documentation
+
+Please see wiki pages for the documentation.
